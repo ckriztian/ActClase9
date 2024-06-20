@@ -1,3 +1,6 @@
+## video: https://youtu.be/DiwI9uCAQO8 
+## video: https://youtu.be/DiwI9uCAQO8 
+
 lista = []
 lista_con_fecha = []
 
